@@ -34,4 +34,4 @@ export const LogoImage = () => (
     )}
   />
 )
-export default Image
+export default LogoImage
