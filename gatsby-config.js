@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Custom Wood Ping Pong Tables - Opus Artisan`,
-    description: `Opus Artisan creates on of a kind ping pong table sized conference tables that bring life to your office space.`,
+    description: `Opus Artisan creates one of a kind wood ping pong sized conference tables.  Perfect for offices, breweries, homes and more.`,
     author: `Opus Artisan`,
   },
   plugins: [
