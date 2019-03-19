@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Custom Wood Ping Pong Tables - Opus Artisan`,
+    description: `Opus Artisan creates on of a kind ping pong table sized conference tables that bring life to your office space.`,
+    author: `Opus Artisan`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
